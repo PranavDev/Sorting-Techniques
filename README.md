@@ -1,4 +1,4 @@
-# Sorting_Techniques_Python
+# Sorting Techniques in Python
 
 Different Sorting techniques:
 1. Bubble Sort
